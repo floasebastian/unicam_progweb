@@ -1,0 +1,18 @@
+[submodule "202209/nanang.sutahar"]
+	path = 202209/nanang.sutahar
+	url = git@github.com:Nanang212/cv_bootstrap.git
+[submodule "202209/yudhistira.barus"]
+	path = 202209/yudhistira.barus
+	url = git@github.com:yuranura/CV-Resume.git
+[submodule "202209/rafi.putra"]
+	path = 202209/rafi.putra
+	url = git@github.com:rafiakhdan/WebsitePorto-ReactJS-TailwindCSS.git
+[submodule "202209/mochammad.faizin"]
+	path = 202209/mochammad.faizin
+	url = git@github.com:WachidNUrFaizin/porto.git
+[submodule "202209/abdee.ivanka"]
+	path = 202209/abdee.ivanka
+	url = git@github.com:Sinahara/animelist.git
+[submodule "202209/igusti.ekasari"]
+	path = 202209/igusti.ekasari
+	url = git@github.com:igustiayupdes/unicam.tugasprogweb.git
